@@ -1,12 +1,18 @@
-## Larashop
+<h1 align="center">UAS Sistem Informasi Akuntansi </h1>
 
-![Screenshot_83](https://user-images.githubusercontent.com/17643540/103909086-d5fa4f80-5135-11eb-9df5-90d018572727.png)
+## Sistem Informasi Penjualan buku menggunkan laravel 7
 
-## Introduction
-Aplikasi **Manajemen Toko Buku** dengan menggunakan Framework Laravel Versi 6. Styling menggunakan [Polished Template](https://azamuddin.github.io/polished-template/).
+ 🧑 Profil Pemilik
 
-## Penulis
-Project ini dibuat oleh Fathul Muiin, merupakan sebuah studi kasus pembelajaran karena telah menyelesaikan ebook laravel [be fullstack developer](https://buku-laravel-vue.com/).
+| Profile | Keterangan  |
+|---------|--------------|
+| Nama    | Fiki Sabila Firdaus |
+| NIM | 12030122120019 |
+| Program Studi | Akuntansi |
+| Dosen Pembimbing | Dr. Totok Dewayanto, S.E.,M.Si., Akt. |
+| Kampus  | Universitas Diponegoro |
+
+Web Toko buku online di clone dari https://github.com/fmuiin14/toko-buku 
 
 ## Fitur
 - Manajemen User
@@ -19,8 +25,6 @@ Project ini dibuat oleh Fathul Muiin, merupakan sebuah studi kasus pembelajaran 
 - Search
 - Dll
 
-
-
 ## Cara Instalasi Aplikasi Ini Pada Komputer/ Laptopmu
 - Download Project ini, bisa kamu clone (git clone https://github.com/fmuiin14/toko-buku.git) , atau download dengan cara zip.
 - Letakkan pada folder instalasi XAMPP (Biasanya di C:\xampp\htdocs)
@@ -31,17 +35,5 @@ Project ini dibuat oleh Fathul Muiin, merupakan sebuah studi kasus pembelajaran 
 - Setelah itu *php artisan key:generate*
 - Lalu *php artisan serve*
 
-## Demo
-Demo aplikasi ini ada di https://larashop.fmuiin.com/. Email: admin@gmail.com | Password : admin1234
-
-
-## Akun Untuk Testing
-Email: admin@gmail.com | Password : admin1234
-
-## Kontribusi
-Cara termudah untuk kontribusi adalah dengan menggunakan Larashop, laporkan jika ada bugs atau kesalahan, atau beri saran untuk fitur apa yang ingin ditambahkan. Jika anda adalah web developer dan ingin melakukan kontribusi pada project ini silahkan lakukan Pull Request [PR] melalui Github.
-
-
-## License
-
-The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## Tampilan Website toko buku online
+![WhatsApp Image 2023-12-19 at 00 08 48](https://github.com/Fikisabilafirdaus/SISTEM-INFORMASI-PENJUALAN-BUKU-/assets/152597138/184ef134-4176-455d-9a0f-e25bc10a0fcc)
