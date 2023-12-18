@@ -43,3 +43,9 @@ Web Toko buku online di clone dari https://github.com/fmuiin14/toko-buku
 ![WhatsApp Image 2023-12-19 at 00 08 49 (2)](https://github.com/Fikisabilafirdaus/SISTEM-INFORMASI-PENJUALAN-BUKU-/assets/152597138/c13b4264-af4a-4a19-9255-0adfdccc9410)
 ![WhatsApp Image 2023-12-19 at 00 08 48](https://github.com/Fikisabilafirdaus/SISTEM-INFORMASI-PENJUALAN-BUKU-/assets/152597138/34b51117-633d-4548-89c0-bd622c662b86)
 
+## Struktur database di phpMyAdmin
+<img width="512" alt="image" src="https://github.com/Fikisabilafirdaus/SISTEM-INFORMASI-PENJUALAN-BUKU-/assets/152597138/c1f3fbb1-5cd3-477d-b536-f64e7de7f1dd">
+
+## Designer di phpMyAdmin
+![Picture1](https://github.com/Fikisabilafirdaus/SISTEM-INFORMASI-PENJUALAN-BUKU-/assets/152597138/e08a61f4-30eb-4044-87a9-5cc45993f63f)
+
