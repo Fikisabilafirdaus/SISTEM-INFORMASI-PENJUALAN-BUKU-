@@ -36,4 +36,10 @@ Web Toko buku online di clone dari https://github.com/fmuiin14/toko-buku
 - Lalu *php artisan serve*
 
 ## Tampilan Website toko buku online
-![WhatsApp Image 2023-12-19 at 00 08 48](https://github.com/Fikisabilafirdaus/SISTEM-INFORMASI-PENJUALAN-BUKU-/assets/152597138/184ef134-4176-455d-9a0f-e25bc10a0fcc)
+![WhatsApp Image 2023-12-19 at 00 08 50](https://github.com/Fikisabilafirdaus/SISTEM-INFORMASI-PENJUALAN-BUKU-/assets/152597138/345ae30c-2ccf-47ef-bbc2-ec7e51bf87f4)
+![WhatsApp Image 2023-12-19 at 00 08 50 (1)](https://github.com/Fikisabilafirdaus/SISTEM-INFORMASI-PENJUALAN-BUKU-/assets/152597138/20927243-c7a5-464c-8492-41dd402b3cce)
+![WhatsApp Image 2023-12-19 at 00 08 49](https://github.com/Fikisabilafirdaus/SISTEM-INFORMASI-PENJUALAN-BUKU-/assets/152597138/978b7ae9-3fbb-450b-ad16-3a500796b289)
+![WhatsApp Image 2023-12-19 at 00 08 49 (1)](https://github.com/Fikisabilafirdaus/SISTEM-INFORMASI-PENJUALAN-BUKU-/assets/152597138/e0bbfa2e-2bf8-43b4-9127-c6f25b94e3aa)
+![WhatsApp Image 2023-12-19 at 00 08 49 (2)](https://github.com/Fikisabilafirdaus/SISTEM-INFORMASI-PENJUALAN-BUKU-/assets/152597138/c13b4264-af4a-4a19-9255-0adfdccc9410)
+![WhatsApp Image 2023-12-19 at 00 08 48](https://github.com/Fikisabilafirdaus/SISTEM-INFORMASI-PENJUALAN-BUKU-/assets/152597138/34b51117-633d-4548-89c0-bd622c662b86)
+
